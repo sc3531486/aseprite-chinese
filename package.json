@@ -1,0 +1,25 @@
+{
+  "name": "aseprite-chinese",
+  "displayName": "Simplified Chinese Language Pack",
+  "description": "Aseprite 简体中文语言包 - Simplified Chinese language pack for Aseprite",
+  "version": "2.0.0",
+  "author": {
+    "name": "Aseprite Chinese Community",
+    "email": "3531486@qq.com",
+    "url": "https://github.com/aseprite-chinese/aseprite-chinese"
+  },
+  "publisher": "aseprite-chinese",
+  "license": "Apache-2.0",
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "zh-hans",
+        "path": "./zh-hans.ini",
+        "displayName": "简体中文"
+      }
+    ]
+  }
+}
